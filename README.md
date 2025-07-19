@@ -1,7 +1,3 @@
-Here is everything — all in **one single continuous text block**, ready to paste into a single file:
-
----
-
 # devTinder Frontend
 
 ## 🚀 Overview
