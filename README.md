@@ -24,8 +24,7 @@
 * ✅ **Review Connection Requests** — Accept or reject incoming connection requests.
 * 🌍 **Responsive Design** — Fully optimized for mobile & desktop.
 
-## 🔧 API Endpoints
-
+ 
 The frontend interacts with the backend API hosted in the [devTinder Backend](https://github.com/ritikrajkvs/devTinder-backend).
 Ensure the backend is running before using the frontend.
 
